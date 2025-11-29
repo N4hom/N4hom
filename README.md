@@ -4,7 +4,7 @@ I'm a PhD candidate in Nuclear Engineering working on
 modeling and simulation of fusion/fission reactors, with a focus on:
 
 - Compressible flow and shock physics
-- Multi-physics simulation (CFD, conjugate heat transfer, ablation)
+- Multi-physics simulation (CFD, conjugate heat transfer, radiation)
 - AI-assisted workflows
 
 ## 🔬Research interests
