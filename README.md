@@ -7,7 +7,7 @@ modeling and simulation of fusion/fission reactors, with a focus on:
 - Multi-physics simulation (CFD, conjugate heat transfer, ablation)
 - AI-assisted workflows
 
-🔬 # Research interests
+# 🔬Research interests
 
 💥 Inertial Fusion Energy (IFE) chamber dynamics  
 🌊 CFD for compressible and incompressible flows  
