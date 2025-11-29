@@ -5,9 +5,9 @@ modeling and simulation of fusion/fission reactors.
 
 ## 🔬Research interests
 
-💥      Compressible flow and shock physics  
-🌊🔥⚛️  Multi-physics simulation (CFD, conjugate heat transfer, radiation)  
-🤖      AI-assisted workflows
+Compressible flow and shock physics 💥  
+Multi-physics simulation (CFD 🌊 , conjugate heat transfer 🔥, neutronics ⚛️)  
+AI-assisted workflows 🤖  
 
 
 📄 Publications
