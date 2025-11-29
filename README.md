@@ -9,11 +9,11 @@ modeling and simulation of fusion/fission reactors, with a focus on:
 
 🔬 Interests
 
-💥 Inertial Fusion Energy (IFE) chamber dynamics
-🌊 CFD for compressible and incompressible flows
-🔥 Conjugate heat transfer
-⚛️ Neutronics (Serpent & OpenMC)
-🤖 AI-assisted modeling
+💥 Inertial Fusion Energy (IFE) chamber dynamics  
+🌊 CFD for compressible and incompressible flows  
+🔥 Conjugate heat transfer  
+⚛️ Neutronics (Serpent & OpenMC)  
+🤖 AI-assisted modeling  
 
 📄 Publications
 - [Google Scholar profile](https://scholar.google.com/citations?user=dbbqzIQAAAAJ&hl=en)
