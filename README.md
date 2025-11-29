@@ -1,4 +1,4 @@
-# Hi, I'm Nahom 👋
+# Hi there! I'm Nahom 👋
 
 I'm a PhD candidate in Nuclear Engineering working on
 modeling and simulation of fusion/fission reactors, with a focus on:
@@ -7,7 +7,7 @@ modeling and simulation of fusion/fission reactors, with a focus on:
 - Multi-physics simulation (CFD, conjugate heat transfer, ablation)
 - AI-assisted workflows
 
-🔬 Interests
+🔬 # Research interests
 
 💥 Inertial Fusion Energy (IFE) chamber dynamics  
 🌊 CFD for compressible and incompressible flows  
